@@ -15,7 +15,7 @@ def multiply(a: int, b: int) -> int:
 
 @mcp.tool()
 def docx_to_html(file_paths: list[str]) -> str:
-    """Word 문서를 HTML로 변환
+    """Word 문서를 HTML로 변환 
     
     Args:
         file_paths (list[str]): 변환할 Word 문서들의 경로 리스트

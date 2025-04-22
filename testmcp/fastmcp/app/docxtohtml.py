@@ -7,7 +7,7 @@ from docx.document import Document
 from docx.oxml.table import CT_Tbl
 from docx.oxml.text.paragraph import CT_P
 from docx.oxml.numbering import CT_NumPr
-from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.enum.text import WD_ALIGN_PARAGRAPH 
 from docx.shared import RGBColor, Pt
 from docx.table import Table
 from lxml import etree
