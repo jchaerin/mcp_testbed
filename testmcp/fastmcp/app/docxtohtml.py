@@ -13,7 +13,6 @@ from docx.table import Table
 from lxml import etree
 from PIL import Image
 from datetime import datetime
-import re
 from docx.enum.text import WD_LINE_SPACING
 
 # 로깅 설정
