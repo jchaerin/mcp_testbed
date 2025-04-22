@@ -1,7 +1,6 @@
 import docx
 import html
 import os
-import base64
 import io
 import logging
 from docx.document import Document
