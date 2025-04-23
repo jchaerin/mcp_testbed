@@ -3,3 +3,5 @@ mcp==1.6.0
 uv==0.6.12
 langgraph==0.3.24
 langchain_openai==0.3.12
+unstructured==0.12.5
+openai==1.12.0
